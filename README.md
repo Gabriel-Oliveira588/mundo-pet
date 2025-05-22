@@ -20,3 +20,7 @@ desenvolvido pelo SENAI PLAY e adaptado para ser responsivo
 - Nome: Gabriel Oliveira
 
 ---
+![Print! da página inicial](img/print-home.png)
+![Print da loja](img/print-sobre.png)
+![Print da loja](img/print-loja.png)
+![Print da loja](img/print-contato.png)
